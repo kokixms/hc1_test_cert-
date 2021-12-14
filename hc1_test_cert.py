@@ -2,10 +2,10 @@
 # Certificate will not be valid as it will not be signed by official CA
 
 # Definition of Data for Test Certificate
-family_name = "Doe"
-given_name = "John"
-birthdate = "1911-11-11"  # yyyy-mm-dd
-country = "XX"  # two letter country code
+family_name = "Matees"
+given_name = "Costel"
+birthdate = "1991-11-22"  # yyyy-mm-dd
+country = "RO"  # two letter country code
 last_vaccination_date = "2021-05-01"  # yyyy-mm-dd
 cert_issuer = "Non Valid Test Certificate"
 time_to_live = 180 * 24 * 3600  # validity period of cert, default 180 days
